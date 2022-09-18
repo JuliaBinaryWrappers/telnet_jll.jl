@@ -1,0 +1,103 @@
+[[telnet]]
+arch = "aarch64"
+git-tree-sha1 = "c7d27a21bce768704aabfe8804287d879056ee66"
+libc = "glibc"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "32e56aea5c218756623b268f4cf79f0d9098398bef479b6f22c4acdacbbe306f"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.aarch64-linux-gnu.tar.gz"
+[[telnet]]
+arch = "aarch64"
+git-tree-sha1 = "79d7063b15460b5081e8e63084ecd47083a78caa"
+libc = "musl"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "3cd3db0edeea2a4d455fbd994b0860bf6e3d055d60040eda198892431dab37ba"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.aarch64-linux-musl.tar.gz"
+[[telnet]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9dfe73c21b4a444dc93303a132d61279d387497e"
+libc = "glibc"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "0a5199050b6f6e3159950cfd75445f8be7fa4bc87e721a81a9a1ce8cca1276dc"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.armv6l-linux-gnueabihf.tar.gz"
+[[telnet]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7aa1d60ab6429b217d1976a4ed6789dce23611e7"
+libc = "musl"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "29f6f820d7efeaece17f806c8c7c2da321bbe8411d22a704c6dda058f9c79a85"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.armv6l-linux-musleabihf.tar.gz"
+[[telnet]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "11c7b3de960feecc90b30c7e976e6b693aa7b7ba"
+libc = "glibc"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "64e0798936eb2c163accb7e7b7e1ad8e67cb4e075c21596e60bdbb5b0eca839a"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[telnet]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3165aff98f514db622306e6231550d2b45655d6e"
+libc = "musl"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "24e6f885fcdfa0f0cc0dda5ea84b1dfc175d3f2a0f3bd69d3df541e24103fee0"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.armv7l-linux-musleabihf.tar.gz"
+[[telnet]]
+arch = "i686"
+git-tree-sha1 = "afc094a7eb7131da432e5064f621dbc9e38dc731"
+libc = "glibc"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "8e9e37ef0a91154c4970685e58950ca49864af91b1ef098c4b3bcad2c7781494"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.i686-linux-gnu.tar.gz"
+[[telnet]]
+arch = "i686"
+git-tree-sha1 = "109ae0b22913c604b07627f349045cd7d63b0891"
+libc = "musl"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "37a5114b15584f53fb8466a5d0c21ccaced025d0472c6c3118204c9f1a244e6e"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.i686-linux-musl.tar.gz"
+[[telnet]]
+arch = "powerpc64le"
+git-tree-sha1 = "ae1b07c051d24a88fd90e28b31e785e0e3e789b7"
+libc = "glibc"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "c540946fa9d3f01f0504b22c7e5185ce558e66cdc9db84ac4727e4722d744040"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.powerpc64le-linux-gnu.tar.gz"
+[[telnet]]
+arch = "x86_64"
+git-tree-sha1 = "49eabe2719427efd0eb5239fb64d2f3cd3c09646"
+libc = "glibc"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "876ee870841ceca33039c2e71a800bdac6c1dbf5d9c0b5530b8dda830b4d3491"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.x86_64-linux-gnu.tar.gz"
+[[telnet]]
+arch = "x86_64"
+git-tree-sha1 = "f84750986e9c9b2ada826a1258c35107e9ae6c9d"
+libc = "musl"
+os = "linux"
+
+    [[telnet.download]]
+    sha256 = "445a3f4e5f5b2863b60fa2fe01ad1d15585be9e5f008d3ef53747f30625d43c1"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.x86_64-linux-musl.tar.gz"
