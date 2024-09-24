@@ -1,103 +1,103 @@
 [[telnet]]
 arch = "aarch64"
-git-tree-sha1 = "c7d27a21bce768704aabfe8804287d879056ee66"
+git-tree-sha1 = "36570260fcfe19e0bb9cea27b53cad177d78d6b9"
 libc = "glibc"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "32e56aea5c218756623b268f4cf79f0d9098398bef479b6f22c4acdacbbe306f"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "e0aae5c9982e2851d61aac55f6dab158435923f451eea3534ff1635ed833cfec"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.aarch64-linux-gnu.tar.gz"
 [[telnet]]
 arch = "aarch64"
-git-tree-sha1 = "79d7063b15460b5081e8e63084ecd47083a78caa"
+git-tree-sha1 = "4be2fada08ba8a447a90471d1e3bb8a0ed440221"
 libc = "musl"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "3cd3db0edeea2a4d455fbd994b0860bf6e3d055d60040eda198892431dab37ba"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.aarch64-linux-musl.tar.gz"
+    sha256 = "6788fefb7ebf7e71c78f1b8f86b23101d3c7dd24501babc7447d9273bd77f770"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.aarch64-linux-musl.tar.gz"
 [[telnet]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9dfe73c21b4a444dc93303a132d61279d387497e"
+git-tree-sha1 = "ebfca660ec20ea4e671475c6ad2b8df82a0757bc"
 libc = "glibc"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "0a5199050b6f6e3159950cfd75445f8be7fa4bc87e721a81a9a1ce8cca1276dc"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "19c6b696057b7c6dc3f20170f76b2b22720fdaa8df30d8f60dea05a94eb01637"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.armv6l-linux-gnueabihf.tar.gz"
 [[telnet]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7aa1d60ab6429b217d1976a4ed6789dce23611e7"
+git-tree-sha1 = "9bbce7445a5d433abea41ea6d150144cb20e951b"
 libc = "musl"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "29f6f820d7efeaece17f806c8c7c2da321bbe8411d22a704c6dda058f9c79a85"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "a1b7c365dfa84a3ceaa53260346a6fe31fc1a79ca1985032d1ab8f3e6b170cce"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.armv6l-linux-musleabihf.tar.gz"
 [[telnet]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "11c7b3de960feecc90b30c7e976e6b693aa7b7ba"
+git-tree-sha1 = "26701971d3bc508e045d657053de2c669d94e01b"
 libc = "glibc"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "64e0798936eb2c163accb7e7b7e1ad8e67cb4e075c21596e60bdbb5b0eca839a"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7e2edc51dbaa72df644acd2832c5320f687b54864a3f9ef0f2b885885961908e"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.armv7l-linux-gnueabihf.tar.gz"
 [[telnet]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3165aff98f514db622306e6231550d2b45655d6e"
+git-tree-sha1 = "19a6f94427e61e960e0ab8ba98b1d603892554fd"
 libc = "musl"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "24e6f885fcdfa0f0cc0dda5ea84b1dfc175d3f2a0f3bd69d3df541e24103fee0"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "2e942fc8535781d50bb022c7e4722b2abda3ffd87d123a594b21a33a5fd42c5f"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.armv7l-linux-musleabihf.tar.gz"
 [[telnet]]
 arch = "i686"
-git-tree-sha1 = "afc094a7eb7131da432e5064f621dbc9e38dc731"
+git-tree-sha1 = "df81982f63a92dd2aab82438b1fb872fc06243ce"
 libc = "glibc"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "8e9e37ef0a91154c4970685e58950ca49864af91b1ef098c4b3bcad2c7781494"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.i686-linux-gnu.tar.gz"
+    sha256 = "3a6716c17d50ef383fcda5f50826dbc905b0ada5d8b6c6db6db72dc884987e2a"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.i686-linux-gnu.tar.gz"
 [[telnet]]
 arch = "i686"
-git-tree-sha1 = "109ae0b22913c604b07627f349045cd7d63b0891"
+git-tree-sha1 = "f7afaa2efcb21d7c016cd93a30c24c736237ee16"
 libc = "musl"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "37a5114b15584f53fb8466a5d0c21ccaced025d0472c6c3118204c9f1a244e6e"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.i686-linux-musl.tar.gz"
+    sha256 = "6061b2bee946760aafb4eaa225f13a1cfbfc8da4064ba02945193fbd8c70c499"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.i686-linux-musl.tar.gz"
 [[telnet]]
 arch = "powerpc64le"
-git-tree-sha1 = "ae1b07c051d24a88fd90e28b31e785e0e3e789b7"
+git-tree-sha1 = "c616de60c7366a002cad61bc27fdeb366213f254"
 libc = "glibc"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "c540946fa9d3f01f0504b22c7e5185ce558e66cdc9db84ac4727e4722d744040"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "70d1e2194740ffaa4a5dc1b5f1724f376cd0ebbf11cf9cddba1e60809d27b81b"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.powerpc64le-linux-gnu.tar.gz"
 [[telnet]]
 arch = "x86_64"
-git-tree-sha1 = "49eabe2719427efd0eb5239fb64d2f3cd3c09646"
+git-tree-sha1 = "0dea04261ac9d1cf84b0f36c1e9351e44214cdd3"
 libc = "glibc"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "876ee870841ceca33039c2e71a800bdac6c1dbf5d9c0b5530b8dda830b4d3491"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "eddccf403f07373b6a221e5802d7aabdac4fbc1c27d108919f7e1bbc1f96b26a"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.x86_64-linux-gnu.tar.gz"
 [[telnet]]
 arch = "x86_64"
-git-tree-sha1 = "f84750986e9c9b2ada826a1258c35107e9ae6c9d"
+git-tree-sha1 = "a9e65862f10fb0d72a9a256b295fcd87282411de"
 libc = "musl"
 os = "linux"
 
     [[telnet.download]]
-    sha256 = "445a3f4e5f5b2863b60fa2fe01ad1d15585be9e5f008d3ef53747f30625d43c1"
-    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.2.0+0/telnet.v2.2.0.x86_64-linux-musl.tar.gz"
+    sha256 = "0522eacbf445d3d5fd8bafd17bed541e3fcb8861b29f274d20d578f141f73611"
+    url = "https://github.com/JuliaBinaryWrappers/telnet_jll.jl/releases/download/telnet-v2.5.0+0/telnet.v2.5.0.x86_64-linux-musl.tar.gz"
