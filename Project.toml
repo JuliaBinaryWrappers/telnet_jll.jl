@@ -1,6 +1,6 @@
 name = "telnet_jll"
 uuid = "1dbb190e-59ad-542b-b90b-8ef67c206511"
-version = "2.5.0+0"
+version = "2.6.0+0"
 
 [deps]
 Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"
@@ -11,7 +11,8 @@ libxcrypt_legacy_jll = "5ef642bb-a58b-5208-ae37-583168b2c491"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
+libxcrypt_legacy_jll = "4.4.38"
